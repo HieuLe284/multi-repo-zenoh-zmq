@@ -1,0 +1,9 @@
+[submodule "zenoh-zmq-multi"]
+	path = zenoh-zmq-multi
+	url = https://github.com/HieuLe284/zenoh-zmq-multi.git
+[submodule "zenoh-zmq"]
+	path = zenoh-zmq
+	url = https://github.com/HieuLe284/zenoh-zmq.git
+[submodule "zenoh-pub-sub"]
+	path = zenoh-pub-sub
+	url = https://github.com/HieuLe284/zenoh-pub-sub.git
